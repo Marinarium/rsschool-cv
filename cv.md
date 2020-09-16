@@ -40,7 +40,7 @@ I've been worked as a frontend developer for a small web-studio for several mont
 **B1**  
 Courses in English school EN Discovery
 
-I have a little experience of work on English speaking project. 
+I have some experience in using English on projects.
 
 
 [1]: https://github.com/Marinarium/AKH
