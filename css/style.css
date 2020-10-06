@@ -87,7 +87,7 @@ section {
             "avatar contact";
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 320px 1fr;
-
+    margin-bottom: 30px;
 }
 
 .main .avatar {
