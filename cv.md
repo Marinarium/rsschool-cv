@@ -22,9 +22,10 @@ It would be great to find guidance, because I really need it.
 - ReactJS
 
 ## Code examples
-- [React Project][1] 
-- [Web-site][2]
-- [Web-site][3]
+- [webdev][1] 
+- [calcultor][2]
+- [shelter][3]
+- [momentum][4]
 
 ## Experience 
 I've been worked as a frontend developer for a small web-studio for several months. I have taken part in more than 10 projects. My main responsibilities are markup with using BEM methodology and responsive layouts. I actively use Sass, Flexboxes, CSS-animation, Grids. 
@@ -43,6 +44,7 @@ Courses in English school EN Discovery
 I have some experience in using English on projects.
 
 
-[1]: https://github.com/Marinarium/AKH
-[2]: https://github.com/Marinarium/01
-[3]: https://github.com/Marinarium/aurius
+[1]: https://rolling-scopes-school.github.io/marinarium-JS2020Q3/webdev/
+[2]: https://rolling-scopes-school.github.io/marinarium-JS2020Q3/calculator/
+[3]: https://rolling-scopes-school.github.io/marinarium-JS2020Q3/shelter/pages/main/main.html
+[4]: https://rolling-scopes-school.github.io/marinarium-JS2020Q3/momentum/
